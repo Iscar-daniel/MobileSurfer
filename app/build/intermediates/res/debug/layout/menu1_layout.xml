@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#ffa7beff">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="WELCOME TO ZIW BOTEL"
+        android:id="@+id/textView8"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="100% Fast Booking Hotel"
+        android:id="@+id/textView9"
+        android:layout_below="@+id/textView8"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp"
+        android:textColor="#ffffffff" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/textView9"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="64dp"
+        android:weightSum="1">
+
+        <ImageButton
+            android:layout_width="179dp"
+            android:layout_height="171dp"
+            android:id="@+id/imageButton"
+            android:background="@drawable/a" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="184dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Permata Hotel"
+                android:id="@+id/textView13"
+                android:textIsSelectable="false"
+                android:textColorLink="#ffffffff" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Jln Aceh no 7"
+                android:id="@+id/textView28"
+                android:paddingTop="20dp"
+                android:textIsSelectable="false"
+                android:textColor="#ffffffff" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Rp. 800000"
+                android:id="@+id/textView29"
+                android:paddingTop="20dp"
+                android:textColor="#ffff5248" />
+
+            <Button
+                android:layout_width="122dp"
+                android:layout_height="wrap_content"
+                android:text="See Detail"
+                android:id="@+id/book" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"
+        android:entries="@array/rcmnd"
+        android:layout_below="@+id/textView9"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout><!-- From: file:/C:/TB/app/src/main/res/layout/menu1_layout.xml -->

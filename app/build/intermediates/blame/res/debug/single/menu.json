@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\Smt 8\\WMC\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_room_detail.xml",
+        "source": "E:\\Smt 8\\WMC\\TB\\app\\src\\main\\res\\menu\\menu_room_detail.xml"
+    },
+    {
+        "merged": "E:\\Smt 8\\WMC\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail_booking.xml",
+        "source": "E:\\Smt 8\\WMC\\TB\\app\\src\\main\\res\\menu\\menu_detail_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_menu_awal.xml",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\src\\main\\res\\menu\\menu_menu_awal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_booking.xml",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\src\\main\\res\\menu\\menu_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\src\\main\\res\\menu\\menu_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "E:\\Smt 8\\WMC\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register.xml",
+        "source": "E:\\Smt 8\\WMC\\TB\\app\\src\\main\\res\\menu\\menu_register.xml"
+    },
+    {
+        "merged": "E:\\Smt 8\\WMC\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_rooms.xml",
+        "source": "E:\\Smt 8\\WMC\\TB\\app\\src\\main\\res\\menu\\menu_rooms.xml"
+    },
+    {
+        "merged": "E:\\Smt 8\\WMC\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_menu_awal.xml",
+        "source": "E:\\Smt 8\\WMC\\TB\\app\\src\\main\\res\\menu\\menu_menu_awal.xml"
+    },
+    {
+        "merged": "E:\\Smt 8\\WMC\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "E:\\Smt 8\\WMC\\TB\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "E:\\Smt 8\\WMC\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "E:\\Smt 8\\WMC\\TB\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "E:\\Smt 8\\WMC\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "E:\\Smt 8\\WMC\\TB\\app\\src\\main\\res\\menu\\menu_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_rooms.xml",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\src\\main\\res\\menu\\menu_rooms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_register.xml",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\src\\main\\res\\menu\\menu_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail_booking.xml",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\src\\main\\res\\menu\\menu_detail_booking.xml"
+    },
+    {
+        "merged": "E:\\Smt 8\\WMC\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_booking.xml",
+        "source": "E:\\Smt 8\\WMC\\TB\\app\\src\\main\\res\\menu\\menu_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_room_detail.xml",
+        "source": "C:\\Users\\Andre\\AndroidStudioProjects\\TB\\app\\src\\main\\res\\menu\\menu_room_detail.xml"
+    }
+]
